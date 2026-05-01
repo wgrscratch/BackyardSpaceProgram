@@ -1,0 +1,8 @@
+Root Chord: 1.5
+Tip Chord: 0.5
+Span: 1.5
+Area: 1.5
+Mass: 112.50000000000001
+CoM: 0.5416666666666666
+Cost: 0.0
+Level: 10

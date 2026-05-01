@@ -1,0 +1,16 @@
+Thrust Source: data/thrustcurves/Cesaroni_6026M1670-P.csv
+Dry Mass: 1.815
+Nozzle Radius: 0.033
+Grain Number: 5
+Grain Density: 1815
+Grain Outer Radius: 0.033
+Grain Inner Radius: 0.015
+Grain Height: 0.12
+Grain Separation: 0.005
+Grain CoM: 0.397
+CoDM: 0.317
+Nozzle Position: 0
+Burn Time: 3.9
+Throat Radius: 0.011
+Cost: 500
+Level: 1

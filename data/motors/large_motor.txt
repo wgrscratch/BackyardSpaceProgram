@@ -1,0 +1,16 @@
+Thrust Source: data\thrustcurves\GEM8-R4000.csv
+Dry Mass: 20
+Nozzle Radius: 0.075
+Grain Number: 5
+Grain Density: 2500
+Grain Outer Radius: 0.075
+Grain Inner Radius: 0.005
+Grain Height: 0.35
+Grain Separation: 0.01
+Grain CoM: 1.1
+CoDM: 0.85
+Nozzle Position: 0
+Burn Time: 25
+Throat Radius: 0.033
+Cost: 5000
+Level: 3

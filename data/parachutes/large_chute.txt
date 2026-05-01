@@ -1,0 +1,3 @@
+CdS: 5.0
+Level: 3
+Cost: 500

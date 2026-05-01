@@ -1,0 +1,8 @@
+Length: 2.0
+Base Radius: 0.26
+Kind: von karman
+Volume: 0.05106948297762584
+Mass: 51.06948297762584
+CoM: 1.2828714822326075
+Cost: 0.0
+Level: 10

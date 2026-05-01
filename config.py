@@ -1,0 +1,2 @@
+PLAYER_LEVEL = 100
+GAME_MODE = 'sandbox'

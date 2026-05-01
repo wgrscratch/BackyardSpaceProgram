@@ -1,0 +1,16 @@
+Thrust Source: data\thrustcurves\S-520.csv
+Dry Mass: 200.0
+Nozzle Radius: 0.2
+Grain Number: 5
+Grain Density: 2500
+Grain Outer Radius: 0.18
+Grain Inner Radius: 0.01
+Grain Height: 1
+Grain Separation: 0.05
+Grain CoM: 3.2
+CoDM: 2.7
+Nozzle Position: 0
+Burn Time: 29.0
+Throat Radius: 0.0667
+Cost: 0
+Level: 10

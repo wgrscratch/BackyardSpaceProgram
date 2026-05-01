@@ -1,0 +1,8 @@
+Top Radius: 0.075
+Bottom Radius: 0.06
+Length: 0.08
+Volume: 0.00024033183799961915
+Mass: 0.12016591899980958
+CoM: 0.03843105245363118
+Cost: 300
+Level: 2

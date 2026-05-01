@@ -1,0 +1,16 @@
+Thrust Source: data\thrustcurves\mercury.csv
+Dry Mass: 628.0
+Nozzle Radius: 0.4
+Grain Number: 5
+Grain Density: 1815
+Grain Outer Radius: 0.4
+Grain Inner Radius: 0.18
+Grain Height: 1.25
+Grain Separation: 0.0667
+Grain CoM: 4.5
+CoDM: 3.5
+Nozzle Position: 0
+Burn Time: 143.5
+Throat Radius: 0.15
+Cost: 0
+Level: 10

@@ -1,0 +1,8 @@
+Length: 0.85
+Base Radius: 0.1
+Kind: ogive
+Volume: 0.0033030571450166244
+Mass: 3.3030571450166244
+CoM: 0.5492804420245592
+Cost: 1000
+Level: 3
