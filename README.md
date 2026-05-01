@@ -73,6 +73,10 @@ python main.py
 10. Click **"Launch"** to simulate the flight and view the trajectory plot
 11. Complete the mission to advance and unlock new parts!
 
+![Career Mode UI](assets/career_mode.png)
+
+---
+
 ### Sandbox Mode *(For Intermediate Users)*
 
 1. Click **"Sandbox Mode"** from the main menu
@@ -90,6 +94,9 @@ python main.py
 4. Set a name in the **"File Name"** box and click **"Save and Export"**
 5. Return to the Rocket UI and click **"Update Rocket"** to reload dropdowns
 6. Your custom part will now appear in the selection menus
+
+![Sandbox Nosecone Editor](assets/nosecone_editor.png)
+
 7. Ensure the **static margin is positive (green)** before launching
 8. Click **"Launch"** to simulate and view the trajectory plot
 9. View detailed post-flight results under **"Flight Results"**
