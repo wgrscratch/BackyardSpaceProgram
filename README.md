@@ -154,3 +154,18 @@ python main.py
 Click **"About"** in the Main Menu for additional references.
 
 Built on top of [RocketPy](https://github.com/RocketPy-Team/RocketPy) — an advanced rocket flight simulator.
+
+### Sources
+
+- [RocketPy Documentation](https://docs.rocketpy.org/)
+- [Richard Nakka's Page on Fin Design](https://www.nakka-rocketry.net/RD_fin.htm)
+- [Rocket Motor Data — ThrustCurve.org](https://www.thrustcurve.org/)
+- [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+- [Weather Data — University of Wyoming](https://weather.uwyo.edu/)
+
+#### Real-Life Rocket Inspirations
+
+- [USC Rocket Propulsion Lab — Traveler IV](https://www.uscrpl.com/traveler-iv)
+- [Cosmic Research — Bondar](https://cosmicresearch.org/bondar/)
+- [Astronautix — S-520](http://www.astronautix.com/s/s-520.html)
+- [Astronautix — A-7](http://www.astronautix.com/a/a-7.html)
